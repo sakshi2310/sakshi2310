@@ -80,16 +80,16 @@
 🔹 Ongoing Generative AI & AI Agent projects  
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi2310&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi2310&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2310&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2310&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 ---
 
 ## 🎯 Current Focus
